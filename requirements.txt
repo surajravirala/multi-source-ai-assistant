@@ -1,0 +1,5 @@
+gradio
+pandas
+openpyxl
+PyPDF2
+python-dateutil
